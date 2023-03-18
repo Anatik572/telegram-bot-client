@@ -1,7 +1,6 @@
 
 <p align="center">
   <h1>TeleSpam</h1>
-  Make advertising simple on telegram
   <img src="https://raw.githubusercontent.com/Anatik572/telegram-bot-client/main/istelegramsafe_IPV-blog-1024x683.png", width="500", height="500">
 </p>
 
