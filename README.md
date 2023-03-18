@@ -4,9 +4,9 @@
 </p>
 
 ## What are the features ?
--ads - Send to all telegram channels <br>
--scrape - Scrape all dialogue channels<br>
--join - Join Canal<br><br>
+- ```ads``` - Send to all telegram channels <br>
+- ```scrape``` - Scrape all dialogue channels<br>
+- ```join``` - Join Canal<br><br>
 
 ## How to install it ? 
 ```
