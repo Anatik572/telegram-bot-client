@@ -15,7 +15,7 @@ npm i input
 npm i fs
 ``` 
 <br>
-### Change apiId and apiHash
+## Change apiId and apiHash
 Login to your Telegram account with the phone number of the developer account to use.<br>
 Click under API Development tools.<br>
 A Create new application window will appear. Fill in your application details. There is no need to enter any URL, and only the first two fields (App title and Short name) can currently be changed later.<br>
