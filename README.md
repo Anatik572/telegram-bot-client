@@ -1,5 +1,7 @@
 # TeleSpam
-Advertise in channels with your user telegram account
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anatik572/telegram-bot-client/main/istelegramsafe_IPV-blog-1024x683.png", width="500", height="500">
+</p>
 
 ## What are the features ?
 -ads - Send to all telegram channels 
