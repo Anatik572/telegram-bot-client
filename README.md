@@ -18,7 +18,7 @@ npm i fs
 
 # Change apiId and apiHash in config.json !!
 
-Login to your Telegram account with the phone number of the developer account to use.<br>
+Login to your Telegram account here => (https://my.telegram.org/auth) with the phone number of the developer account to use.<br>
 Click under API Development tools.<br>
 A Create new application window will appear. Fill in your application details. There is no need to enter any URL, and only the first two fields (App title and Short name) can currently be changed later.<br>
 Click on Create application at the end. Remember that your API hash is secret and Telegram won't let you revoke it. Don’t post it anywhere!<br><br>
