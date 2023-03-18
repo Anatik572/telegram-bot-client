@@ -14,7 +14,7 @@ npm i telegram
 npm i input
 npm i fs
 ``` 
-<br><br>
+<br>
 ### Change apiId and apiHash<br>
 Login to your Telegram account with the phone number of the developer account to use.<br>
 Click under API Development tools.<br>
