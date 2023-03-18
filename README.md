@@ -3,17 +3,17 @@
   <img src="https://raw.githubusercontent.com/Anatik572/telegram-bot-client/main/istelegramsafe_IPV-blog-1024x683.png", width="500", height="500">
 </p>
 
-## What are the features ?
--ads - Send to all telegram channels 
--scrape - Scrape all dialogue channels
--join - Join Canal
+## What are the features ?<br>
+-ads - Send to all telegram channels <br>
+-scrape - Scrape all dialogue channels<br>
+-join - Join Canal<br><br>
 
-## How to install it ?
+## How to install it ?<br>
 ```
 npm i telegram
 npm i input
 npm i fs
-```
+```<br>
 ### Change apiId and apiHash
 Login to your Telegram account with the phone number of the developer account to use.
 Click under API Development tools.
