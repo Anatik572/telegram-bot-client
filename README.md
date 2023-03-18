@@ -8,12 +8,12 @@
 -scrape - Scrape all dialogue channels<br>
 -join - Join Canal<br><br>
 
-## How to install it ?<br>
+## How to install it ? 
 ```
 npm i telegram
 npm i input
 npm i fs
-```<br>
+``` <br><br>
 ### Change apiId and apiHash
 Login to your Telegram account with the phone number of the developer account to use.
 Click under API Development tools.
