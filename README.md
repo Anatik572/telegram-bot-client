@@ -24,7 +24,13 @@
 
 ## Price 
 15 euro life time
-paypal and crypto
+
+## What the site accepts as payment ?
+- Paypal<br>
+- XMR<br>
+- bitcoin<br>
+- litecoin<br>
+- eth<br><br>
 
 ## Website
 [https://vnetwork.cc](https://vnetwork.cc?referral=7e583085309f906cbd75821a19c26dbd)
