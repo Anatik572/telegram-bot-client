@@ -1,36 +1,27 @@
 # TeleSpam
 <p align="center">
-  <img src="https://vnetwork.cc/panel/assets/images/favicon.png", width="200", height="200">
+  <img src="https://raw.githubusercontent.com/Anatik572/telegram-bot-client/main/istelegramsafe_IPV-blog-1024x683.png", width="500", height="500">
 </p>
 
 ## What are the features ?
-✅ LifeTime<br>
-✅ Modify Token Status (HOT)<br>
-✅ Support 24/24 7/7<br>
-✅ Steal Global Information<br>
-✅ Get Token From Discord App<br>
-✅ Steal Password<br>
-✅ Steal Cookie<br>
-✅ Steal Discord Token<br>
-✅ Launch Payload<br>
-✅ Logs of actions<br>
-✅ Generate Executable<br>
-✅ Live Map<br>
-✅ Console (Shell)<br>
+- ```ads``` - Send to all telegram channels <br>
+- ```scrape``` - Scrape all dialogue channels<br>
+- ```join``` - Join Canal<br><br>
+
+## How to install it ? 
+```
+npm i telegram
+npm i input
+npm i fs
+``` 
 <br>
-## Picture 
-<img src="https://cdn.vnetwork.cc/img/manager_doc.png">
-<img src="https://cdn.vnetwork.cc/img/detail_doc.png">
 
-## Price 
-15 euro life time
+# Change apiId and apiHash in config.json !!
 
-## What the site accepts as payment ?
-- Paypal<br>
-- XMR<br>
-- bitcoin<br>
-- litecoin<br>
-- eth<br><br>
+Login to your Telegram account here => (https://my.telegram.org/auth) with the phone number of the developer account to use.<br>
+Click under API Development tools.<br>
+A Create new application window will appear. Fill in your application details. There is no need to enter any URL, and only the first two fields (App title and Short name) can currently be changed later.<br>
+Click on Create application at the end. Remember that your API hash is secret and Telegram won't let you revoke it. Don’t post it anywhere!<br><br>
 
-## Website
-[https://vnetwork.cc](https://vnetwork.cc?referral=7e583085309f906cbd75821a19c26dbd)
+## How to launch it?
+you will need node js you just have to do ```node .``` in a cmd and enter the information <br>
