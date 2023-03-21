@@ -21,3 +21,10 @@
 ## Picture 
 <img src="https://cdn.vnetwork.cc/img/manager_doc.png">
 <img src="https://cdn.vnetwork.cc/img/detail_doc.png">
+
+## Price 
+15 euro life time
+paypal and crypto
+
+## Website
+[https://vnetwork.cc](https://vnetwork.cc?referral=7e583085309f906cbd75821a19c26dbd)
